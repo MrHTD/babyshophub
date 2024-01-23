@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586393677337",
+    "project_id": "babyshophub-9bb2b",
+    "storage_bucket": "babyshophub-9bb2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586393677337:android:8dd80e4e9208aa21304488",
+        "android_client_info": {
+          "package_name": "com.example.babyshophub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3JBh4OonQ9jhjfD3q2qc9EFqD-YAIvog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
